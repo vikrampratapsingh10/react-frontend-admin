@@ -1,0 +1,40 @@
+body{
+    padding-bottom: 100vh;
+}
+
+#first-container{
+    padding-top: 100vh !important;
+    background-color: black;
+    width: 200px;
+}
+#box {
+    /* background-color: rgb(41,77,240); */
+    background-color: white;
+    font-size: 16px;
+    text-align: center;
+    height: 100px;
+    border: 1px solid grey;
+    /* background-color: #f7931a; */
+    border-radius: 3%;
+    /* border: 1px solid blue; */
+}
+
+#text {
+    color: white;
+    margin-top: 10px;
+    font-size: 20px;
+}
+#no{
+    margin-top: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+.rowButtom{
+    margin-bottom: 50px;
+}
+
+.fa{
+    height: 30px;
+    width: 30px;
+}
