@@ -1,6 +1,6 @@
 {
   "name": "admin",
-  "proxy": "https://handcraftb.onrender.com/",
+  "proxy": "https://handcraftb.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
