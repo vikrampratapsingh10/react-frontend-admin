@@ -1,4 +1,4 @@
-const url = "https://handcraftb.onrender.com"
+const url = "https://handcraftb-xfvv.onrender.com"
 export default {
     PRODUCT_LIST:url+"/product/viewproduct",
     PRODUCT_DELETE:url+"/product/delete",
